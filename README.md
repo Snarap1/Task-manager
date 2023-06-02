@@ -1,4 +1,4 @@
-# Todo-App for course project
+# Task manager
 
 ## Stack: 
 * Spring Boot 3
